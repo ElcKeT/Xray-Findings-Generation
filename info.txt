@@ -1,0 +1,13 @@
+2024-05-21T01:32:31.834186200+08:00[Asia/Shanghai]
+CXR3574_IM-1756-1001
+CXR3574_IM-1756-2001
+hpy:negative for acute abnormality . the cardiomediastinal silhouette is normal in size and contour . no focal consolidation pneumothorax or large pleural effusion . negative for acute displaced rib fracture . 
+ref:negative for acute abnormality . the cardiomediastinal silhouette is normal in size and contour . no focal consolidation pneumothorax or large pleural effusion . suspected xxxx artifact over the bilateral neck soft tissues and supraclavicular fossae . normal xxxx . 
+Bleu_1: 0.6032437347687475
+Bleu_2: 0.5881755310813653
+Bleu_3: 0.581189417945302
+Bleu_4: 0.5760792278935628
+METEOR: 0.38930707253640046
+ROUGE_L: 0.6884875846501128
+
+
